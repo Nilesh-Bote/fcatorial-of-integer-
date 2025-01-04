@@ -1,0 +1,9 @@
+Explanation:
+HTML:
+The interface consists of a title, a text input field to enter a number, a button to trigger the calculation, and sections to display both the iterative and recursive results.
+CSS:
+Basic styling is applied for a clean, simple, and centered layout.
+JavaScript:
+Two functions, factorialIterative and factorialRecursive, compute the factorial using the iterative and recursive methods respectively.
+The function isValidInput checks if the input is a valid positive integer.
+The button click event listener retrieves the user input, validates it, and then computes the factorials using both methods. The results are displayed in the HTML

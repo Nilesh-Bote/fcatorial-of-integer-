@@ -1,1 +1,1 @@
-# fcatorial-of-integer-
+# fcatorial-of-integer-user input
